@@ -1,0 +1,1 @@
+To run this program first do "cd MyBlazorApp" in the terminal, then either "dotnet run" or "dotnet watch"
