@@ -6,8 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <PackageId>My.FirstClassLibrary</PackageId>
     <Version>0.1.0</Version>
-    <Authors>YOUR NAME</Authors>
-    <Company>YOUR COMPANY NAME</Company>
+    <Authors>Ryndee van Langeveld</Authors>
+    <Company>none I don't have a comppany</Company>
     <Description>This is a Razor component library with a cool modal window component.</Description>
   </PropertyGroup>
 
